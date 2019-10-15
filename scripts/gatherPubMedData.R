@@ -2,7 +2,7 @@
 
   pacman::p_load(easyPubMed, tidyverse)
   
-  datadir <- file.path(getwd(), "data") # destination file for download
+  datadir <- file.path(getwd(), "data/raw") # destination file for download
   dir.create(datadir)
 
   query <- 'mus musculus lymph node' 
