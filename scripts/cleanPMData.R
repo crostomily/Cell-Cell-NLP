@@ -22,11 +22,16 @@
     return(df)
   }
   
-  new_PM_df <- clean_pm_data(list.files(datadir, full.names = T)[1])
-
-# Write Output ------------------------------------------------------------
-
-  feather::write_feather(new_PM_df, file.path(outdir, paste0(file_prefix, 1, '.feather')))
+  files <- list.files(datadir, full.names = T)
+  
+  for(i in seq_along(files)) {
+    f <- files[i]
+    new_PM_df <- clean_pm_data(f)
+    
+    feather::write_feather(new_PM_df, file.path(outdir, paste0(file_prefix, i, '.feather')))
+    
+    print(paste0('Finished with ', i, ' out of ', length(files)))
+  }
   
   
   
