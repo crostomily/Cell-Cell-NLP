@@ -32,7 +32,6 @@ https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PMC/
 ##### Tools
 ###### PubMed.MineR (R)
 - See above in Pubmed abstracts
-###### PubMed.MineR
 #### Medline
 Contains more than 25 million references to journal articles in life sciences with a concentration on biomedicine. A distinctive feature of MEDLINE is that the records are indexed with NLM Medical Subject Headings (MeSH).
 
