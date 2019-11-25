@@ -1,32 +1,63 @@
-## Outline
+## Project Notes
 
-### Overview
+--------------------------------------------------
 
+### Databases
 
+#### Pubmed abstracts
 
-### Data Download
+https://www.ncbi.nlm.nih.gov/pubmed/
 
-#### Databases
+##### Tools
 
-##### Pubmed abstracts
+###### PubMed.MineR (R)
 
-###### Data types
+- Download pubmed abstracts
+- Parse pubmed abstracts
+- Recent updates
+- Bad documentation? (need to review further)
+- S4 classes for pubmed abstracts
+- Useful tools for named entity recognition
+- Also works with Pubmed Central articles
 
-###### Tools
+###### easyPubMed (R)
 
-##### Pubmed Central
+- Download pubmed abstracts
+- Parse pubmed abstracts
+- Recent updates
+- Good documentation
+- Limited other functionality
 
-###### Data types
+#### Pubmed Central
 
-###### Tools
+##### Tools
 
-##### Medline
+###### PubMed.MineR (R)
 
-###### Data types
+- See above in Pubmed abstracts
 
-###### Tools
+###### PubMed.MineR
+
+#### Medline
+
+##### Tools
+
+###### MedlineR (R)
+
+--------------------------------------------------
 
 ### Data Preprocessing
+
+#### One stop shops
+
+##### PubMedPortable
+
+https://github.com/KerstenDoering/PubMedPortable
+
+- Takes as input pubmed files
+- 
+
+#### Database construction
 
 #### Tokenizing
 
