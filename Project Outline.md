@@ -1,10 +1,14 @@
 ## Project Notes
 
 --------------------------------------------------
+--------------------------------------------------
 
 ### Databases
 
+-----------------------
 #### Pubmed abstracts
+
+30 million citations for biomedical literature from MEDLINE, life science journals, and online books.
 
 https://www.ncbi.nlm.nih.gov/pubmed/
 
@@ -28,7 +32,12 @@ https://www.ncbi.nlm.nih.gov/pubmed/
 - Good documentation
 - Limited other functionality
 
+-----------------------
 #### Pubmed Central
+
+PubMed Central (PMC) is a free full-text archive of biomedical and life sciences journal literature at the U.S. National Institutes of Health's National Library of Medicine (NIH/NLM).
+
+https://www.ncbi.nlm.nih.gov/pmc/
 
 ##### Tools
 
@@ -38,7 +47,14 @@ https://www.ncbi.nlm.nih.gov/pubmed/
 
 ###### PubMed.MineR
 
+-----------------------
 #### Medline
+
+Contains more than 25 million references to journal articles in life sciences with a concentration on biomedicine. A distinctive feature of MEDLINE is that the records are indexed with NLM Medical Subject Headings (MeSH).
+
+Primary component of pubmed
+
+https://www.nlm.nih.gov/bsd/medline.html
 
 ##### Tools
 
