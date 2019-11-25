@@ -29,6 +29,10 @@ PubMed Central (PMC) is a free full-text archive of biomedical and life sciences
 
 https://www.ncbi.nlm.nih.gov/pmc/
 
+Additionally there are curated collections of articles on Pubmed available for download:
+
+https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/
+
 ##### Tools
 ###### PubMed.MineR (R)
 - See above in Pubmed abstracts
@@ -48,6 +52,10 @@ https://pubmed.ncbi.nlm.nih.gov/15284107-medliner-an-open-source-library-in-r-fo
 - Old software at time of writing this, can't easily find code
 - Maybe obsolete... you can filter pubmed query rersults by overlap with medline
 
+#### MESH
+
+#### SNOW
+
 --------------------------------------------------
 --------------------------------------------------
 
@@ -58,10 +66,13 @@ https://pubmed.ncbi.nlm.nih.gov/15284107-medliner-an-open-source-library-in-r-fo
 ##### PubMedPortable
 https://github.com/KerstenDoering/PubMedPortable
 - Takes as input pubmed files
-- 
 
 #### Database construction
 
 #### Tokenizing
 
 #### Named Entity Recognition
+##### PubTator
+- Automated curation
+- https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/PubTator/
+
