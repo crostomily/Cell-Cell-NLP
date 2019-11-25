@@ -1,0 +1,161 @@
+#######################################################
+Citations for mapping abbreviations:
+#######################################################
+
+@article{Gaudan2005,
+  doi = {10.1093/bioinformatics/bti586},
+  url = {https://doi.org/10.1093/bioinformatics/bti586},
+  year = {2005},
+  month = jul,
+  publisher = {Oxford University Press ({OUP})},
+  volume = {21},
+  number = {18},
+  pages = {3658--3664},
+  author = {S. Gaudan and H. Kirsch and D. Rebholz-Schuhmann},
+  title = {Resolving abbreviations to their senses in Medline},
+  journal = {Bioinformatics}
+}
+
+@article{Zhou2006,
+  doi = {10.1093/bioinformatics/btl480},
+  url = {https://doi.org/10.1093/bioinformatics/btl480},
+  year = {2006},
+  month = sep,
+  publisher = {Oxford University Press ({OUP})},
+  volume = {22},
+  number = {22},
+  pages = {2813--2818},
+  author = {W. Zhou and V. I. Torvik and N. R. Smalheiser},
+  title = {{ADAM}: another database of abbreviations in {MEDLINE}},
+  journal = {Bioinformatics}
+}
+
+@article{Kim2015,
+  doi = {10.1016/j.jbi.2014.12.013},
+  url = {https://doi.org/10.1016/j.jbi.2014.12.013},
+  year = {2015},
+  month = feb,
+  publisher = {Elsevier {BV}},
+  volume = {53},
+  pages = {367--380},
+  author = {Seonho Kim and Juntae Yoon},
+  title = {Link-topic model for biomedical abbreviation disambiguation},
+  journal = {Journal of Biomedical Informatics}
+}
+
+@article{Yu2007,
+  doi = {10.1016/j.jbi.2006.06.001},
+  url = {https://doi.org/10.1016/j.jbi.2006.06.001},
+  year = {2007},
+  month = apr,
+  publisher = {Elsevier {BV}},
+  volume = {40},
+  number = {2},
+  pages = {150--159},
+  author = {Hong Yu and Won Kim and Vasileios Hatzivassiloglou and W. John Wilbur},
+  title = {Using {MEDLINE} as a knowledge source for disambiguating abbreviations and acronyms in full-text biomedical journal articles},
+  journal = {Journal of Biomedical Informatics}
+}
+
+#######################################################
+NLP of abstacts papers:
+#######################################################
+
+@article{ArguelloCasteleiro2018,
+  doi = {10.1186/s13326-018-0181-1},
+  url = {https://doi.org/10.1186/s13326-018-0181-1},
+  year = {2018},
+  month = apr,
+  publisher = {Springer Nature},
+  volume = {9},
+  number = {1},
+  author = {Mercedes Arguello Casteleiro and George Demetriou and Warren Read and Maria Jesus Fernandez Prieto and Nava Maroto and Diego Maseda Fernandez and Goran Nenadic and Julie Klein and John Keane and Robert Stevens},
+  title = {Deep learning meets ontologies: experiments to anchor the cardiovascular disease ontology in the biomedical literature},
+  journal = {Journal of Biomedical Semantics}
+}
+
+@article{Burns2019,
+  doi = {10.1093/database/baz034},
+  url = {https://doi.org/10.1093/database/baz034},
+  year = {2019},
+  month = jan,
+  publisher = {Oxford University Press ({OUP})},
+  volume = {2019},
+  author = {Gully A Burns and Xiangci Li and Nanyun Peng},
+  title = {Building deep learning models for evidence classification from the open access biomedical literature},
+  journal = {Database}
+}
+
+~~~~~~~~~~~~~~~~~~~~~~
+Data for above:
+https://github.com/SciKnowEngine/ro-biocuration2019
+~~~~~~~~~~~~~~~~~~~~~~
+
+@article{ArguelloCasteleiro2018,
+  doi = {10.1186/s13326-018-0181-1},
+  url = {https://doi.org/10.1186/s13326-018-0181-1},
+  year = {2018},
+  month = apr,
+  publisher = {Springer Nature},
+  volume = {9},
+  number = {1},
+  author = {Mercedes Arguello Casteleiro and George Demetriou and Warren Read and Maria Jesus Fernandez Prieto and Nava Maroto and Diego Maseda Fernandez and Goran Nenadic and Julie Klein and John Keane and Robert Stevens},
+  title = {Deep learning meets ontologies: experiments to anchor the cardiovascular disease ontology in the biomedical literature},
+  journal = {Journal of Biomedical Semantics}
+}
+
+@article{Wang2018,
+  doi = {10.1016/j.jbi.2018.09.008},
+  url = {https://doi.org/10.1016/j.jbi.2018.09.008},
+  year = {2018},
+  month = nov,
+  publisher = {Elsevier {BV}},
+  volume = {87},
+  pages = {12--20},
+  author = {Yanshan Wang and Sijia Liu and Naveed Afzal and Majid Rastegar-Mojarad and Liwei Wang and Feichen Shen and Paul Kingsbury and Hongfang Liu},
+  title = {A comparison of word embeddings for the biomedical natural language processing},
+  journal = {Journal of Biomedical Informatics}
+}
+
+@article{Burns2016,
+  doi = {10.1093/database/baw122},
+  url = {https://doi.org/10.1093/database/baw122},
+  year = {2016},
+  publisher = {Oxford University Press ({OUP})},
+  volume = {2016},
+  pages = {baw122},
+  author = {Gully A.P.C. Burns and Pradeep Dasigi and Anita de Waard and Eduard H. Hovy},
+  title = {Automated detection of discourse segment and experimental types from the text of cancer pathway results sections},
+  journal = {Database}
+}
+
+
+@article{Vanegas2015,
+  doi = {10.1155/2015/571381},
+  url = {https://doi.org/10.1155/2015/571381},
+  year = {2015},
+  publisher = {Hindawi Limited},
+  volume = {2015},
+  pages = {1--19},
+  author = {Jorge A. Vanegas and S{\'{e}}rgio Matos and Fabio Gonz{\'{a}}lez and Jos{\'{e}} L. Oliveira},
+  title = {An Overview of Biomolecular Event Extraction from Scientific Documents},
+  journal = {Computational and Mathematical Methods in Medicine}
+}
+
+#######################################################
+Text Mining Tools
+#######################################################
+
+@article{Rani2015,
+  doi = {10.1007/s12038-015-9552-2},
+  url = {https://doi.org/10.1007/s12038-015-9552-2},
+  year = {2015},
+  month = sep,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {40},
+  number = {4},
+  pages = {671--682},
+  author = {Jyoti Rani and Ab Rauf Shah and Srinivasan Ramachandran},
+  title = {pubmed.{mineR}: An R package with text-mining algorithms to analyse {PubMed} abstracts},
+  journal = {Journal of Biosciences}
+}
