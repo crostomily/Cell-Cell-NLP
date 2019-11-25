@@ -80,3 +80,9 @@ https://github.com/KerstenDoering/PubMedPortable
 #### A comprehensive and quantitative comparison of text-mining in 15 million full-text articles versus their corresponding abstracts
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831415/
 
+--------------------------------------------------
+--------------------------------------------------
+## Online Notes/Blog posts
+#### Post on pubmed mining resources
+https://www.johnsnowlabs.com/evidence-based-medicine-ebm-and-data-science-part-2-mining-the-pubmed-database/
+
