@@ -3,8 +3,7 @@
 
 
 # Libraries ---------------------------------------------------------------
-library(easyPubMed)
-library(pubmed.mineR)
+pacman::p_load(easyPubMed, pubmed.mineR)
 
 
 # easyPubMed Example ------------------------------------------------------
@@ -27,6 +26,6 @@ out.A <- batch_pubmed_download(pubmed_query_string = new_query,
 
 # pubmed.mineR Example ----------------------------------------------------
 
-getabsT()
+
 
 
