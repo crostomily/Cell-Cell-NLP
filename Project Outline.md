@@ -2,7 +2,6 @@
 --------------------------------------------------
 --------------------------------------------------
 ### Databases
------------------------
 #### Pubmed abstracts
 30 million citations for biomedical literature from MEDLINE, life science journals, and online books.
 
@@ -25,7 +24,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/
 - Good documentation
 - Limited other functionality
 
------------------------
 #### Pubmed Central
 PubMed Central (PMC) is a free full-text archive of biomedical and life sciences journal literature at the U.S. National Institutes of Health's National Library of Medicine (NIH/NLM).
 
@@ -37,7 +35,6 @@ https://www.ncbi.nlm.nih.gov/pmc/
 
 ###### PubMed.MineR
 
------------------------
 #### Medline
 Contains more than 25 million references to journal articles in life sciences with a concentration on biomedicine. A distinctive feature of MEDLINE is that the records are indexed with NLM Medical Subject Headings (MeSH).
 
@@ -48,8 +45,8 @@ https://www.nlm.nih.gov/bsd/medline.html
 ##### Tools
 ###### MedlineR (R)
 https://pubmed.ncbi.nlm.nih.gov/15284107-medliner-an-open-source-library-in-r-for-medline-literature-data-mining/
--Old software at time of writing this, can't easily find code
--maybe obsolete because you can filter pubmed queries by if they are in medline
+- Old software at time of writing this, can't easily find code
+- Maybe obsolete... you can filter pubmed query rersults by overlap with medline
 
 --------------------------------------------------
 --------------------------------------------------
